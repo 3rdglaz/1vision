@@ -1,0 +1,22 @@
+{
+  "Header": {
+    "appName": "1 Recipe",
+    "appShortName": "Recipe",
+    "language": "Language"
+  },
+  "SideMenu": {
+    "title": "Refine your search",
+    "home": "Home",
+    "ingredients": "Ingredients",
+    "cusine": "Cusine",
+    "time": "Time",
+    "buttonPost": "Post a recipe",
+    "newAroundHere": "New around here?",
+    "signUpGoogle": "Sign up with Google",
+    "signUpApple": "Sign up with Apple",
+    "orYouCanAlso": "Or you can also",
+    "createAnAccount": "Create an account",
+    "alreadyHaveAccount": "Already have an account?",
+    "signIn": "Sign in"
+  }
+}

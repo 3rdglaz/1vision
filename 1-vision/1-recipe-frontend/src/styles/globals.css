@@ -1,0 +1,15 @@
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  background-color: lightgray;
+}
+
+#__next {
+  overflow: hidden;
+}
